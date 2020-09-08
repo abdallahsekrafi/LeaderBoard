@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LeaderBoard</string>
+    <string name="submit">Submit</string>
+    <string name="leaderboard">LeaderBoard</string>
+    <string name="project_submission_txt">Project Submission</string>
+    <string name="first_name_hnt">First Name</string>
+    <string name="last_name_hnt">Last Name</string>
+    <string name="email_address_hnt">Email Address</string>
+    <string name="github_link_hnt">Project on GITHUB (link)</string>
+    <string name="submission_successful">Submission Successful</string>
+    <string name="submission_not_successful">Submission not Successful</string>
+    <string name="confirm_btn">Are you sure ?</string>
+    <string name="yes">Yes</string>
+</resources>
